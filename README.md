@@ -62,7 +62,7 @@ virtual environment activated,
 
 * Less tested alternative, **direct installation**
 
-  * Run `pip install https://github.com/xverges/wa-cli/archive/master.zip`
+  * Run `pip install https://github.com/vanildo/wa-cli/archive/master.zip`
 
 ## Getting started
 

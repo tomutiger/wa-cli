@@ -15,7 +15,7 @@ env:
 
 
 install:
-  - pip install https://github.com/xverges/wa-cli/archive/master.zip
+  - pip install https://github.com/vanildo/wa-cli/archive/master.zip
   - ./.wa-cli/travis-deploy.sh
 
 
